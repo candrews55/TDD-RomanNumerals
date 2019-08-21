@@ -1,7 +1,7 @@
 # Roman Numerals Kata
 ## A kata using TDD to implement a Roman Numerals calculator.
 
-The program takes a Roman numeral as input and outputs the corresponding Arabic number. For example, if the input is XLIII, the output is 43.
+Write a program that takes a Roman numeral as input and outputs the corresponding Arabic number. For example, if the input is XLIII, the output is 43.
 
 Once you can translate from RN -> Arabic, then implement the reverse conversion from Arabic -> RN. For example, if the input is 43, then the output is XLIII.
 
